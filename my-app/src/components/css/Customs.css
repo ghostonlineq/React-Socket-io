@@ -1,0 +1,22 @@
+.ThemeBG{
+    min-height: 100vh;
+    /* min-width: 203vh; */
+    display: flex;
+    /* height:max-content;
+    width: max-content; */
+    background-color: #282c34;
+    background-image: linear-gradient(#34198A,#4D359A,#6E4ED6,#D9BAF0);
+}
+/* .CardTheme{
+    /* display: flex; */
+    /* min-width: 203vh; */
+    /* height: max-content;
+    width: max-content; */
+/* } */
+
+/* .NavTheme{
+    display: flex;
+    min-width: 203vh;
+    width: max-content;
+    height: 100px;
+} */
